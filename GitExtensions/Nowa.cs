@@ -9,6 +9,5 @@ namespace GitExtensions
     class Nowa
     {
         public int trol { get; set; }
-        public int nowytrol { get; set; }
     }
 }
