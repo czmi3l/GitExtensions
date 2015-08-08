@@ -10,6 +10,7 @@ namespace GitExtensions
     {
         static void Main(string[] args)
         {
+            int temp;
         }
     }
 }
