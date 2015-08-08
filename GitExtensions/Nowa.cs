@@ -8,5 +8,6 @@ namespace GitExtensions
 {
     class Nowa
     {
+        public int trol { get; set; }
     }
 }
