@@ -12,6 +12,7 @@ namespace GitExtensions
         {
             int temp;
             temp = 5;
+            temp = 7;
         }
     }
 }
