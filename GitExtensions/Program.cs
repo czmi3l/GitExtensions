@@ -11,11 +11,8 @@ namespace GitExtensions
         static void Main(string[] args)
         {
             int temp;
-            int temp2;
-            temp2 = 1;
             temp = 5;
             temp = 7;
-            temp2 = 10;
         }
     }
 }
