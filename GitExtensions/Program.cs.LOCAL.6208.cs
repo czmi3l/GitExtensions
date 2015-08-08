@@ -9,7 +9,8 @@ namespace GitExtensions
     class Program
     {
         static void Main(string[] args)
-        {            
+        {
+            
         }
     }
 }
